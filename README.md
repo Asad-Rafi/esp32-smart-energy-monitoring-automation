@@ -54,6 +54,6 @@ An ESP32-based IoT project for real-time energy monitoring and home automation. 
 - Machine learning-based load prediction
 
 ## Author
-Asadul Akter, S M Utshob, Tamim Ahmed  
+Asadul Akter, S M Utshob, and Tamim Ahmed  
 Department of Electronics and Telecommunication Engineering (ETE)  
 Chittagong University of Engineering and Technology (CUET)
