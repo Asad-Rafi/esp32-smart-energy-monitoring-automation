@@ -61,6 +61,6 @@ An ESP32-based IoT project for real-time energy monitoring and home automation. 
 
 ## Author
 
-Asadul Akter
+Asadul Akter, S M Utshob, Tamim Ahmed
 Department of Electronics and Telecommunication Engineering (ETE)
 Chittagong University of Engineering and Technology (CUET)
