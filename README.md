@@ -4,6 +4,7 @@
 An ESP32-based IoT project for real-time energy monitoring and home automation. The system measures AC voltage, current, power, and energy consumption while providing local and remote monitoring through a web dashboard, Blynk mobile application, and OLED display.
 
 ## Features
+
 - Real-time voltage and current measurement
 - Power and energy consumption calculation
 - CSV data logging using SPIFFS
@@ -16,6 +17,7 @@ An ESP32-based IoT project for real-time energy monitoring and home automation. 
 - Over-current auto-trip protection
 
 ## Hardware Components
+
 - ESP32 Development Board
 - SSD1306 OLED Display
 - Voltage Sensor Module
@@ -26,6 +28,7 @@ An ESP32-based IoT project for real-time energy monitoring and home automation. 
 - Power Supply
 
 ## Software & Technologies
+
 - Arduino IDE
 - ESP32 Framework
 - Blynk IoT
@@ -34,6 +37,7 @@ An ESP32-based IoT project for real-time energy monitoring and home automation. 
 - Embedded C/C++
 
 ## System Architecture
+
 1. Sensors collect electrical and environmental data.
 2. ESP32 processes measurements and automation logic.
 3. Data is logged to SPIFFS in CSV format.
@@ -43,11 +47,13 @@ An ESP32-based IoT project for real-time energy monitoring and home automation. 
    - OLED Display
 
 ## Safety Features
+
 - Over-current detection
 - Automatic load disconnection
 - Real-time monitoring and alerts
 
 ## Future Improvements
+
 - Cloud database integration
 - Energy consumption analytics
 - MQTT support
@@ -56,4 +62,7 @@ An ESP32-based IoT project for real-time energy monitoring and home automation. 
 ## Author
 Asadul Akter, S M Utshob, and Tamim Ahmed  
 Department of Electronics and Telecommunication Engineering (ETE)  
+
+Asadul Akter, S M Utshob, Tamim Ahmed
+Department of Electronics and Telecommunication Engineering (ETE)
 Chittagong University of Engineering and Technology (CUET)
